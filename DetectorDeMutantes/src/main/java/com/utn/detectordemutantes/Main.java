@@ -7,7 +7,7 @@ package com.utn.detectordemutantes;
 public class Main {
 
     public static void main(String[] args) {
-           
+           System.out.println("Hola");
           String[] dna = {"ATGCGA","CAGTGC","TTATGT","AGAAGG","CCCCTA","TCACTG"};
         //String[] dna ={"ATGCGA","AAGTGC","ATATGT","AGAAGT","ACTCGA","ATCACT"};
         //String[] dna = {"ATGCGA", "TAGTGC", "ATATGT", "AGGAGT", "ACTCAC", "ATCACA"};
