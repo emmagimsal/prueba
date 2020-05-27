@@ -25,13 +25,14 @@ public class main {
         //String[] dna ={"GAAGGA","AGAAGG","TATAGT","ATATGT","AAAGTG","AGCAGT"};
         //String[] dna ={"ATGCGA","CAGTGC","TTATTT","AGACGG","GCGTCA","TCACTG"};
         
+        System.out.println("La secuencia es: "+ Arrays.toString(dna));
         AnalizadorADN analizadorDeADN = new AnalizadorADN();
-         System.out.println("La secuencia es: "+ Arrays.toString(dna));
+        /* 
         if (analizadorDeADN.isMutant(dna)) {
             System.out.println("Es mutante");
         } else {
             System.out.println("No es mutante");
-        }
+        }*/
 
         }
     }
