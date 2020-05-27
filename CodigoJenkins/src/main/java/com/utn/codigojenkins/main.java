@@ -26,7 +26,7 @@ public class main {
         //String[] dna ={"ATGCGA","CAGTGC","TTATTT","AGACGG","GCGTCA","TCACTG"};
         
         System.out.println("La secuencia es: "+ Arrays.toString(dna));
-        AnalizadorADN analizadorDeADN = new AnalizadorADN();
+       // AnalizadorADN analizadorDeADN = new AnalizadorADN();
         /* 
         if (analizadorDeADN.isMutant(dna)) {
             System.out.println("Es mutante");
